@@ -2,6 +2,8 @@
 
 Public recruitment page for the PokeDot Android closed beta.
 
+Live page: https://kan71462-art.github.io/pokedot-beta/
+
 ## Local preview
 
 ```bash

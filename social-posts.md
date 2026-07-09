@@ -15,7 +15,7 @@ PokeDot Android 封閉測試招募中。
 - 有空玩幾關，回報誤觸、卡頓或看不懂的地方
 
 不需要每天長時間遊玩。加入與說明：
-{{BETA_PAGE_URL}}
+https://kan71462-art.github.io/pokedot-beta/
 
 ### Facebook / Discord post
 
@@ -26,7 +26,7 @@ PokeDot 是一款反應速度遊戲：點擊指定顏色、累積 Combo、挑戰
 目前希望招募 20–30 人。Google Play 的測試規則需要至少 12 位測試者連續參與 14 天，因此加入後請不要中途退出。你不需要每天長時間玩，只要偶爾進入幾個關卡，並告訴我們誤觸、掉幀、翻譯或流程問題即可。
 
 測試資格：Android 手機與 Google Play Gmail。
-招募頁：{{BETA_PAGE_URL}}
+招募頁：https://kan71462-art.github.io/pokedot-beta/
 
 ## English
 
@@ -43,7 +43,7 @@ You need:
 - A little time to play and report missed taps, stutters, or confusing moments
 
 No daily grind is required. Join here:
-{{BETA_PAGE_URL}}
+https://kan71462-art.github.io/pokedot-beta/
 
 ### Reddit post
 
@@ -60,4 +60,4 @@ Requirements:
 - Gmail account used with Google Play
 - Stay opted in for 14 days
 
-Details and signup: {{BETA_PAGE_URL}}
+Details and signup: https://kan71462-art.github.io/pokedot-beta/
