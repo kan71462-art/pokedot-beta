@@ -12,11 +12,10 @@ python3 -m http.server 4176
 
 Open `http://127.0.0.1:4176`.
 
-## Signup link
+## Signup
 
-Until the Google Form is created, the primary signup action opens an email to
-`kanstudioservice@gmail.com`. Replace `#signup-link` in `index.html` with the
-published Google Form URL after the form is ready.
+The primary action opens a prefilled email to `kanstudioservice@gmail.com`.
+KanStudio replies to eligible testers with the Google Play testing link.
 
 ## Privacy
 
