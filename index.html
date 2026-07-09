@@ -116,8 +116,13 @@
           <p data-i18n="signup.body">需要 Android 手機與 Google Play Gmail。你的信箱只用於加入封閉測試與必要的測試通知。</p>
         </div>
         <div class="signup-actions">
-          <a class="button button-primary" id="signup-link" href="mailto:kanstudioservice@gmail.com?subject=PokeDot%20Closed%20Beta%20%E6%B8%AC%E8%A9%A6%E7%94%B3%E8%AB%8B&amp;body=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%83%B3%E5%8A%A0%E5%85%A5%20PokeDot%20Android%20%E5%B0%81%E9%96%89%E6%B8%AC%E8%A9%A6%E3%80%82%0A%0AGoogle%20Play%20Gmail%EF%BC%9A%0AAndroid%20%E6%89%8B%E6%A9%9F%E5%9E%8B%E8%99%9F%EF%BC%9A" data-i18n="signup.cta">寄信申請測試</a>
-          <p data-i18n="signup.pending">我們會將 Google Play 測試網址回寄給你。</p>
+          <p class="signup-instruction" data-i18n="signup.instruction">請寄信至</p>
+          <a class="signup-email" href="mailto:kanstudioservice@gmail.com">kanstudioservice@gmail.com</a>
+          <div class="email-template">
+            <strong data-i18n="signup.format">信件內容只要寫：</strong>
+            <p data-i18n="signup.template">我要參加 PokeDot 測試<br>Google Play Gmail：你的 Gmail</p>
+          </div>
+          <p data-i18n="signup.pending">收到後，我們會回寄 Google Play 測試網址。</p>
         </div>
       </section>
     </main>

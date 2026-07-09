@@ -31,8 +31,10 @@ const translations = {
     "signup.eyebrow": "READY?",
     "signup.title": "成為 PokeDot 第一批挑戰者",
     "signup.body": "需要 Android 手機與 Google Play Gmail。你的信箱只用於加入封閉測試與必要的測試通知。",
-    "signup.cta": "寄信申請測試",
-    "signup.pending": "我們會將 Google Play 測試網址回寄給你。",
+    "signup.instruction": "請寄信至",
+    "signup.format": "信件內容只要寫：",
+    "signup.template": "我要參加 PokeDot 測試\nGoogle Play Gmail：你的 Gmail",
+    "signup.pending": "收到後，我們會回寄 Google Play 測試網址。",
     "footer.privacy": "隱私權政策",
     "footer.contact": "聯絡我們"
   },
@@ -68,7 +70,9 @@ const translations = {
     "signup.eyebrow": "READY?",
     "signup.title": "Become one of PokeDot's first challengers",
     "signup.body": "You need an Android phone and a Google Play Gmail account. Your email is used only for closed-test access and essential test updates.",
-    "signup.cta": "Apply by email",
+    "signup.instruction": "Send an email to",
+    "signup.format": "Your message only needs:",
+    "signup.template": "I want to join the PokeDot test\nGoogle Play Gmail: your Gmail",
     "signup.pending": "We will reply with your Google Play testing link.",
     "footer.privacy": "Privacy policy",
     "footer.contact": "Contact"

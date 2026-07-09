@@ -14,7 +14,7 @@ Open `http://127.0.0.1:4176`.
 
 ## Signup
 
-The primary action opens a prefilled email to `kanstudioservice@gmail.com`.
+The page displays `kanstudioservice@gmail.com` and a minimal email template.
 KanStudio replies to eligible testers with the Google Play testing link.
 
 ## Privacy
